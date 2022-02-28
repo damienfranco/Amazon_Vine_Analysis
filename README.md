@@ -11,9 +11,8 @@ We used pySpark to generate dataframes from the review information. Then we set 
 
 ## Results
 
-Vine critics may be negatively biased or skewed, according to 42% of Vine program evaluations that received 5 stars and 53 percent of neutral reviews that got 5 stars. 
-
-This result is specific only to the sports category of goods sold on Amazon.
+- Vine critics may be negatively biased or skewed, according to 42% of Vine program evaluations that received 5 stars and 53 percent of neutral reviews that got 5 stars. 
+- This result is specific only to the sports category of goods sold on Amazon.
 
 ## Summary
 Vine critics may be negatively biased or skewed, according to 42% of Vine program evaluations that received 5 stars and 53 percent of neutral reviews that got 5 stars. 
